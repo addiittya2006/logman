@@ -1,4 +1,4 @@
-Main File List:
+<b>Main File List:</b>
     cleanlog
     filter_get.py
     filters.txt
